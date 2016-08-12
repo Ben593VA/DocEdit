@@ -1,0 +1,6 @@
+/home/ben/Mono/DocViewer1.0/DocViewer1.0/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ben/Mono/DocViewer1.0/DocViewer1.0/obj/x86/Debug/DocViewer1.gtk-gui.gui.stetic
+/home/ben/Mono/DocViewer1.0/DocViewer1.0/bin/Debug/DocViewer1.0.exe.mdb
+/home/ben/Mono/DocViewer1.0/DocViewer1.0/bin/Debug/DocViewer1.0.exe
+/home/ben/Mono/DocViewer1.0/DocViewer1.0/obj/x86/Debug/DocViewer1.0.exe
+/home/ben/Mono/DocViewer1.0/DocViewer1.0/obj/x86/Debug/DocViewer1.0.exe.mdb
